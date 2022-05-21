@@ -1,0 +1,26 @@
+{
+  "name": "pendeken-backend",
+  "version": "1.0.0",
+  "description": "backend for api pendeken",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsdev00/pendeken-backend.git"
+  },
+  "keywords": [
+    "express",
+    "api"
+  ],
+  "author": "Dani Syam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsdev00/pendeken-backend/issues"
+  },
+  "homepage": "https://github.com/dsdev00/pendeken-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
